@@ -14,9 +14,9 @@
 
 ## Estructura
 - Las funciones principales son las siguientes
-- Agrega el presupuesto ![](img/1.-Ingreson de Presupuesto-1.png)
+- Agrega el presupuesto ![image alt](img/1.-Ingreson de Presupuesto-1.png)
 - Menu principaL   
-- agregar los gastos ![](img/2.- Ingreso de Gasto-1.png)
-- mostrar los gastos ![](img/3- Mostrar Lista con los gastos-1.png) 
-- ver el total gastado![](img/4.- Total gastado.png)
+- agregar los gastos ![image alt](img/2.- Ingreso de Gasto-1.png)
+- mostrar los gastos ![image alt](img/3- Mostrar Lista con los gastos-1.png) 
+- ver el total gastado![image alt](img/4.- Total gastado.png)
 - ademas de validaciones de ingreso de datos.
