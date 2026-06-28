@@ -14,9 +14,13 @@
 
 ## Estructura
 - Las funciones principales son las siguientes
-- Agrega el presupuesto ![image alt](https://github.com/Coipo-D/Proyecto_ABP_Modulo3/blob/bd1b2b4eca2ee8b67ee225e4e3d376740b7b0848/img/1.-Ingreson%20de%20Presupuesto-1.png)
+- Agrega el presupuesto
+- ![image alt](https://github.com/Coipo-D/Proyecto_ABP_Modulo3/blob/bd1b2b4eca2ee8b67ee225e4e3d376740b7b0848/img/1.-Ingreson%20de%20Presupuesto-1.png)
 - Menu principaL   
-- agregar los gastos ![image alt](img/2.- Ingreso de Gasto-1.png)
-- mostrar los gastos ![image alt](img/3- Mostrar Lista con los gastos-1.png) 
-- ver el total gastado![image alt](img/4.- Total gastado.png)
+- agregar los gastos
+- ![image alt](https://github.com/Coipo-D/Proyecto_ABP_Modulo3/blob/a9416fbdc34ef482cd3d486ea3005e5732cf40d7/img/2.-%20Ingreso%20de%20Gasto-1.png)
+- mostrar los gastos
+- ![image alt](https://github.com/Coipo-D/Proyecto_ABP_Modulo3/blob/a9416fbdc34ef482cd3d486ea3005e5732cf40d7/img/3-%20Mostrar%20Lista%20con%20los%20gastos-1.png) 
+- ver el total gastado
+- ![image alt](https://github.com/Coipo-D/Proyecto_ABP_Modulo3/blob/a9416fbdc34ef482cd3d486ea3005e5732cf40d7/img/4.-%20Total%20gastado.png)
 - ademas de validaciones de ingreso de datos.
