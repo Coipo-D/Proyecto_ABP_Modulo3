@@ -14,7 +14,7 @@
 
 ## Estructura
 - Las funciones principales son las siguientes
-- Agrega el presupuesto ![image alt](img/1.-Ingreson de Presupuesto-1.png)
+- Agrega el presupuesto ![image alt](https://github.com/Coipo-D/Proyecto_ABP_Modulo3/blob/bd1b2b4eca2ee8b67ee225e4e3d376740b7b0848/img/1.-Ingreson%20de%20Presupuesto-1.png)
 - Menu principaL   
 - agregar los gastos ![image alt](img/2.- Ingreso de Gasto-1.png)
 - mostrar los gastos ![image alt](img/3- Mostrar Lista con los gastos-1.png) 
