@@ -1,6 +1,6 @@
-# GESTOR DE GASTO
+# GESTOR DE GASTOS
 
-## ¿ En que consiste el Proyecto
+## ¿En que consiste el Proyecto?
 - Es un simple gestor de gasto ejecutado en en consola.
 
 ## ¿ Como se instala ?
@@ -14,7 +14,9 @@
 
 ## Estructura
 - Las funciones principales son las siguientes
-- agregar los gastos 
-- mostrar los gastos 
-- ver el total gastado
+- Agrega el presupuesto ![](img/1.-Ingreson de Presupuesto-1.png)
+- Menu principaL   
+- agregar los gastos ![](img/2.- Ingreso de Gasto-1.png)
+- mostrar los gastos ![](img/3- Mostrar Lista con los gastos-1.png) 
+- ver el total gastado![](img/4.- Total gastado.png)
 - ademas de validaciones de ingreso de datos.
